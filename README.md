@@ -6,4 +6,12 @@
 
 <h4>Jornada Bootcamp</h4>
 
-![](Jornada_Bootcamp.png)
+![](Jornada.png)
+
+<h4>Módulos</h4>
+
+<ul>
+    <li>
+        Módulo 1: K-Means, Python, PowerBI e SQL.   
+    </li>
+</ul>

@@ -31,5 +31,5 @@ def optimal_number_of_clusters(wcss):
         denominator = sqrt((y2 - y1)**2 + (x2 - x1)**2)
         distances.append(numerator/denominator)
     
-    return distances.index(max(distances)) + 2
+    return distances.index(max(distances)) + 1
 
