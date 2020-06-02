@@ -14,4 +14,7 @@
     <li>
         Módulo 1: K-Means, Python, PowerBI e SQL.   
     </li>
+    <li>
+        Módulo 2: Hadoop, MapReduce.   
+    </li>
 </ul>
