@@ -12,9 +12,12 @@
 
 <ul>
     <li>
-        Módulo 1: K-Means, Python, PowerBI e SQL.   
+        Módulo 1: Fundamentos (K-Means, Python, PowerBI e SQL).
     </li>
     <li>
-        Módulo 2: Hadoop, MapReduce.   
+        Módulo 2: Processamento de dados utilizando o Ecossistema Hadoop (Hadoop, MapReduce, YARN, HDFS, Hive e Sqoop).
+    </li>
+    <li>
+        Módulo 3: Coleta e obtenção de dados (Ontologia, MySQL, Knime, Protégé, Framework Anaconda, Phyton, RStudio e Jupyter).
     </li>
 </ul>
