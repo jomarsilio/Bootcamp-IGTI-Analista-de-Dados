@@ -23,6 +23,6 @@
         Módulo 3: Coleta e obtenção de dados (Ontologia, MySQL, Knime, Protégé, Framework Anaconda, Phyton, RStudio e Jupyter).
     </li>
     <li>
-        Módulo 4: Técnicas para o Processamento do Big Data (Streaming, Kafka, Flink, Amazon Kinesis, Spark Streaming, Spark MLlib)
+        Módulo 4: Técnicas para o Processamento do Big Data (Streaming, Kafka, Flink, Amazon Kinesis, Spark Streaming, Spark MLlib e Databricks)
     </li>
 </ul>
